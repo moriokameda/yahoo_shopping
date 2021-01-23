@@ -1,0 +1,8 @@
+yahoo_shop_notifier:
+  yahoo_shop_search_api: 'https://shopping.yahooapis.jp/ShoppingWebService/V3/itemSearch?'
+  yahoo_appid: 'dj00aiZpPTVjbFhjWjh1dTlyTCZzPWNvbnN1bWVyc2VjcmV0Jng9OTU-'
+  query: '缶コーヒー 訳あり 24本'
+  price_from: 1000
+  price_to: 3000
+  line_notify_api: 'https://notify-api.line.me/api/notify'
+  line_notify_token: '3Y2Jd9AFVhW1k43QmywV51hcg0ci9gteupDuHlafDMo'
